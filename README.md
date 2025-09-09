@@ -1,7 +1,7 @@
 # Threat Hunting Project
 
 ## Overview
-This repository documents a **multi-VM threat hunting lab** designed to simulate an enterprise environment. As a cybersecurity analyst at *Structureality Inc.*, the goal of this project is to identify weaknesses, track Indicators of Compromise (IoCs), and strengthen defenses across a simulated internal network.  
+This repository documents a **multi-VM threat hunting lab** designed to simulate an enterprise environment. Simulating a cybersecurity analyst, the goal of this project is to identify weaknesses, track Indicators of Compromise (IoCs), and strengthen defenses across a simulated internal network.  
 
 ## Project Goals
 - Gain hands-on experience with threat hunting techniques.  
