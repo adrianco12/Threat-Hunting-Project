@@ -10,7 +10,7 @@ This repository documents a **multi-VM threat hunting lab** designed to simulate
 - Develop practical skills in detecting and mitigating vulnerabilities.
 
 ## Table of Contents
-- [Threat Hunting: Network Events](#threat-hunting-network-events)
+- [Threat Hunting: Network Events](Threat-Hunting-Network-Events.pdf)
 - [Threat Hunting: New IoC](#threat-hunting-new-ioc)
 - [Analyzing Logs and System Information](#analyzing-logs-and-system-information)
 - [Investigating DNS Activity](#investigating-dns-activity)  
