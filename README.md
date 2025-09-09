@@ -12,8 +12,8 @@ This repository documents a **multi-VM threat hunting lab** designed to simulate
 ## Table of Contents
 - [Threat Hunting: Network Events](Threat-Hunting-Network-Events.pdf)
 - [Threat Hunting: New IoC](Threat-Hunting-New-IoC.pdf)
-- [Analyzing Logs and System Information](#analyzing-logs-and-system-information)
-- [Investigating DNS Activity](#investigating-dns-activity)  
+- [Analyzing Logs and System Information](Analyzing-Logs-and-System-Info.pdf)
+- [Investigating DNS Activity](Investigating-DNS-Activity.pdf)  
 
 ## Lab Activities
 1. **Firewall Logging** – Analyze logs to detect questionable network traffic.  
